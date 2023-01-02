@@ -1,7 +1,7 @@
 # Ethers.js Simple Storage Contract
 
 ## Screenshot: 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot1.png)
 
 
 ## Built with:
