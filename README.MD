@@ -1,10 +1,8 @@
 # Ethers.js Simple Storage Contract
 
-## Screenshot: 
-![Screenshot](Screenshot1.png)
-
-
 ## Built with:
+
+![Screenshot](Screenshot1.png)
 
 Ethers,
 Solidity,
