@@ -1,6 +1,6 @@
 # Ethers.js Simple Storage Contract
 
-## Screenshots:
+## Screenshot:
 ![Screenshot](Screenshot.png)
 
 
